@@ -1,3 +1,7 @@
+html, body{
+    background-color: #dae0e6;
+}
+
 .main-container{
     padding-top: 4rem;
     max-width: 800px;
