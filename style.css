@@ -1,0 +1,27 @@
+.main-container{
+    padding-top: 4rem;
+    max-width: 800px;
+}
+h3{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+h6{
+    margin-top: 0.5rem;
+}
+audio{
+    width: 100%;
+}
+.header-bild-content{
+    width: 100%;
+    -webkit-box-shadow: 2px 16px 32px 0px rgba(49,53,59,0.43);
+    -moz-box-shadow: 2px 16px 32px 0px rgba(49,53,59,0.43);
+    box-shadow: 2px 16px 32px 0px rgba(49,53,59,0.43);
+}
+.site-title{
+    margin-top: 3rem;
+}
+.impressum-link{
+    font-size: 14pt;
+    padding: 1rem 0;
+}
