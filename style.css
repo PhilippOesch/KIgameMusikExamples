@@ -38,6 +38,10 @@ audio{
     float: left;
 }
 
+a{
+    text-decoration: none;
+}
+
 .datenschutz-link{
     text-align: right;
     float: right;
